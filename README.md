@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ChagasFr
-- 👀 I’m interested in  desenvolvimento web e seguranca da informacao 
-- 🌱 I’m currently learning  java - css - html - javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+About Me: 
+Hey there! I’Felipe Chagas, 23 years old, currently living in Brazil.
 
-<!---
-ChagasFr/ChagasFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm studying computer engineering, at São Judas Tadeu University, I was interested in programming outside of college, but higher education was decisive for my learning
+
+Technologies: 
+Front-end Development with HTML, CSS, Javascript, React and Angular.
